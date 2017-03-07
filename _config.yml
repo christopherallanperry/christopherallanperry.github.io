@@ -23,7 +23,8 @@ github_username:  christopherallanperry
 
 # Build settings
 markdown: kramdown
-theme: jekyll-athena
+# theme: jekyll-athena
+theme: jekyll-theme-slate
 gems:
   - jekyll-feed
 exclude:
