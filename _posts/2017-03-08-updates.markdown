@@ -12,4 +12,4 @@ then
 
 `bundle update`
 
-which appear to have worked successfully, still nothing appears, and the site continues to show 'jekyll-athena' as its theme. Something in the build not getting across maybe?
+which appear to have worked successfully, still nothing appears, and the site continues to show 'jekyll-athena' as its theme. Something in the build not getting across maybe, but not sure what?
