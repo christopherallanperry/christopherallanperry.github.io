@@ -5,8 +5,11 @@ date:   2017-03-08 11:46:00 +0000
 categories: jekyll update
 ---
 Although I've updated the site here to use the 'Slate' theme, it isn't working. Despite migrating the Gemfile across to using 'githib-pages' instead of Jekyll, running
+
 `gem install github-pages`
+
 then
+
 `bundle update`
 
-which appear to have worked successfully, still nothin appears, and the site continues to show 'jekyll-athena' as its theme. Something in the build not getting across maybe?
+which appear to have worked successfully, still nothing appears, and the site continues to show 'jekyll-athena' as its theme. Something in the build not getting across maybe?
