@@ -1,12 +1,17 @@
 ---
 layout: project
 title: Minesweeper
-subtitle: WDI24 Project 1 #starterforten
+subtitle: A Recreation of Microsoft's Classic
 <!-- image: ../project_01_winning_game.png -->
 heroku: https://frozen-eyrie-56010.herokuapp.com/
+github: https://github.com/christopherallanperry/WDI_PROJECT_1
+repo_name: WDI_PROJECT_1
 ---
 
 As my first project for the Web Development Immersive course (WDI_24) at General Assembly London, I chose to recreate the classic Microsoft Minesweeper game, as I felt it represented an interesting range of challenges around the logic needed to implement the game play.
+
+<h3>Try the project on Heroku: <a href="{{ page.heroku }}">{{ page.title }}</a></h3>
+<h3>View the code on GitHub: <a href="{{ page.github }}">{{ page.repo_name }}</a></h3>
 
 ## Aims
 - Complete a re-creation of the ‘Minesweeper’ game found on MS Windows operating systems
