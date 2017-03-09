@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Minesweeper
-subtitle: A Recreation of Microsoft's Classic
+subtitle: A Recreation of Microsoft's Classic Desktop Game
 <!-- image: ../project_01_winning_game.png -->
 heroku: https://frozen-eyrie-56010.herokuapp.com/
 github: https://github.com/christopherallanperry/WDI_PROJECT_1

@@ -8,3 +8,11 @@
         "theme-{{ site.theme_color | default: "light" }}.scss"
         // "theme-{{ site.theme_fonts | default: "system" }}.scss"
 ;
+
+.firstname {
+  color: #666666;
+}
+
+.lastname {
+  color: #663399;
+}
