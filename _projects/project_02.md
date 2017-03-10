@@ -2,7 +2,6 @@
 layout: project
 title: Photo Walk
 subtitle: A project designed to give photographers a guided tour of local photo opportunities
-<!-- image: ../project_01_winning_game.png -->
 heroku: https://photo-walk.herokuapp.com/
 github: https://github.com/christopherallanperry/WDI_PROJECT_2
 repo_name: WDI_PROJECT_2
@@ -18,6 +17,8 @@ As a long time photographer and participant in photo walks with friends, I wante
 - Provide the ability for users to create their own walk by either selecting existing landmarks, or by adding landmarks of their own
 - Give the user the ability to record their walks and show the images they took during it
 
+![Photo-Walk landmarks](../project_02_01.png)
+
 ## Technologies Used
 - HTML
 - CSS
@@ -31,7 +32,7 @@ As a long time photographer and participant in photo walks with friends, I wante
 - Gulp
 - Babel
 
-![IMAGE]()
+![Photo-Walk info-window](../project_02_02.png)
 
 ## Successes
 - Building an API to house the locations to be placed on the map, and getting this seeded with suitable data
@@ -45,7 +46,7 @@ As a long time photographer and participant in photo walks with friends, I wante
 - Time constraints involved in creating a minimum viable product
 
 
-![IMAGE]()
+![IMAGE](../project_02_03.png)
 
 ## Future Development
 - Add the ability to upload images
@@ -54,7 +55,7 @@ As a long time photographer and participant in photo walks with friends, I wante
 
 ## Live Version
 - a live version of the app can be found on Heroku at ['Photo Walk'](https://photo-walk.herokuapp.com/)
-- The code for the game can be located on ['GitHub' - 'WDI_PROJECT_2'](https://github.com/christopherallanperry/WDI_PROJECT_2)
+- The code for the app can be located on ['GitHub' - 'WDI_PROJECT_2'](https://github.com/christopherallanperry/WDI_PROJECT_2)
 - To get started, register on the site as a new user
 
-![IMAGE]()
+![IMAGE](../project_02_06.png)
