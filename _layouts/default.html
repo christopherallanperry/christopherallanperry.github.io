@@ -1,19 +1,67 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
-  
-  <!-- font-smoothing is only applied on dark themes -->
-  <body class="font-smoothing">
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
 
-    {% include header.html %}
+  <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-    <div>
+  <title>{{ site.title | default: site.github.repository_name }}</title>
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <div id="header_wrap" class="outer">
+    <header class="inner">
+      <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+
+      <h1 id="project_title" class="project_title"><a href="{{ site.baseurl }}/"><span class="firstname">{{ site.firstname }}</span> <span class="lastname">{{ site.lastname }}</span></a></h1>
+      <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+
+      {% if site.show_downloads %}
+      <section id="downloads">
+        <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
+        <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
+      </section>
+      {% endif %}
+    </header>
+  </div>
+
+  <!-- MAIN CONTENT & MENU -->
+  <div id="main_content_wrap" class="outer">
+    <nav class="right absolute-lg right-0 top-0 inner">
+      <ul class="mt-2 mr-2 mr-lg-3">
+        <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+          <a class="italic h4 bold no-underline" href="{{ site.baseurl }}/">Home</a>
+        </li>
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+            <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+              <a class="italic no-underline h4 font-smoothing" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+    <section id="main_content" class="inner">
       {{ content }}
-    </div>
+    </section>
+  </div>
 
-    {% include footer.html %}
+  <!-- FOOTER  -->
+  <div id="footer_wrap" class="outer">
+    <footer class="inner">
+      {% if site.github.is_project_page %}
+      <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      {% endif %}
+      <p class="publisher">Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+    </footer>
+  </div>
 
-  </body>
 
+
+</body>
 </html>

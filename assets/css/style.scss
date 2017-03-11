@@ -1,0 +1,40 @@
+---
+---
+
+@import "jekyll-theme-slate";
+
+body {
+  background-color: #663399;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3, h4 {
+  font-size: 1.17em;
+}
+
+a {
+  color: #373737;
+}
+
+.lastname, a:hover {
+  color: #663399;
+}
+
+.firstname, .copyright a:hover, .publisher a:hover {
+  color: silver;
+}
+
+#header_wrap {
+  background-color: #212121;
+}
+
+#footer_wrap, #forkme_banner {
+  background-color: #663399;
+}
+
+#project_title {
+  font-size: 4em;
+}
