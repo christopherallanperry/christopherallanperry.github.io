@@ -4,7 +4,7 @@
 @import "jekyll-theme-slate";
 
 body {
-  background-color: #663399;
+  background-color: rebeccapurple;
 }
 
 h2 {
@@ -19,11 +19,33 @@ a {
   color: #373737;
 }
 
-.lastname, a:hover {
-  color: #663399;
+nav {
+  text-align: center;
 }
 
-.firstname, .copyright a:hover, .publisher a:hover {
+nav ul li {
+  display: inline-block;
+  font-size: 1.5em;
+  font-weight: bolder;
+  padding: 10px;
+}
+
+nav ul li a {
+  border-radius: 5px;
+  padding: 10px;
+}
+
+nav ul li a:hover {
+  background-color: silver;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.lastname, a:hover {
+  color: rebeccapurple;
+}
+
+.firstname, .copyright a:hover, .publisher a:hover, .tribute a:hover {
   color: silver;
 }
 
@@ -32,7 +54,7 @@ a {
 }
 
 #footer_wrap, #forkme_banner {
-  background-color: #663399;
+  background-color: rebeccapurple;
 }
 
 #project_title {
