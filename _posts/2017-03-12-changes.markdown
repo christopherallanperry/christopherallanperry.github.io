@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Changes"
+date:   2017-03-12 18:00:00 +0000
+categories: jekyll update
+---
+I've hesitated about posting on this subject for a while, though there's no particular reason to, especially as some people know already - those that I've told on a one-to-one basis; I think it's the 'standby for broadcast' aspect of it that's held me back, I never was much of a one for a crowd.
+
+Having left Saudi Arabia and the 'safety' of a well paid role doing project management for an IT company, one I could probably carried on until the point of retirement, I have decided to have something of a career change. In a week's time I will be starting a 3-month course down in London with <a href="https://generalassemb.ly/">General Assembly</a> on their <a href="https://generalassemb.ly/education/web-development-immersive">Web Development Immersive</a> track.
+
+I've harboured an ambition to get more closely involved with hands-on web development for years now, but it hasn't seemed feasible to progress this further until now, not least because the 'bootcamp' approach taken by the like of GA hasn't really become noticeably available until relatively recently. It has been neither a quick nor easy decision to take, I've been looking at it as an option for around 2 years now and actively working on admission to the course since the beginning of the year. That work paid off and I was offered a place back in June, since when, all the effort has been aimed at re-locating back to the UK - the only slight fly in the ointment came when we found out that the paperwork for our two cats, Remy &amp; Emile (<a href="https://en.wikipedia.org/wiki/Ratatouille_(film)">Ratatouille</a> ref) was not going to be accepted by the UK authorities, since when they've been stuck in quarantine - ho hum...
+
+There's something of an element of risk to all this of course; there's a lot of effort and self-study involved, it will touch on areas of technology I've not dealt with before, it does not come cheap, and perhaps the biggest hurdle will be finding a role at the end of it. What does not concern me though is my own ability to be able to learn the material, nor my capacity to put in the work required. The only thing I'm not overly happy about is being obliged to use a Mac for the course, but no doubt I'll become more familiar with their intricacies as time goes on.
+
+For now then, wish me luck, and I'll update you as I go along. Maybe I'll even get back into the swing of posting here more regularly.
+
+_"Changes" was originally posted at [izdihar.com](Changes) on 29 November 2016_
