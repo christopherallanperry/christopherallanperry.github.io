@@ -9,7 +9,7 @@ repo_name_client: wdi_project_4-client
 repo_name_api: wdi_project_4-api
 ---
 
-As a long time photographer and participant in photo walks with friends, I wanted to try my
+TBD
 
 <h4>Try the project on Heroku: <a href="{{ page.heroku }}">{{ page.title }}</a></h4>
 <h4>View the client code on GitHub: <a href="{{ page.github_client }}">{{ page.repo_name_client }}</a></h4>
@@ -23,12 +23,12 @@ As a long time photographer and participant in photo walks with friends, I wante
 ### Technologies Used
 - HTML
 - CSS/SASS
-- Skeleton
+- Bootstrap
 - AngularJS
 - Express.js
-- MongoDB API
-- Mongoose
-- Google Maps
+- Ruby on Rails
+- PostgreSQL
+- ActiveRecord
 - JWT token authentication
 - Gulp
 - Babel
@@ -36,27 +36,24 @@ As a long time photographer and participant in photo walks with friends, I wante
 ![IMAGE]()
 
 ### Successes
-- Building an API to house the locations to be placed on the map, and getting this seeded with suitable data
-- Creating a re-useable (DRY) function for creating a modal where required
-- Learning how the Google Maps API works, and seeing the extent to which it can be manipulated
+- TBD
+
 
 
 ### Challenges
-- Working with a single `client.js` file that contained API, map, template and application logic
-- Developing a good understanding of MVC build patterns and the way which they are structured
-- Time constraints involved in creating a minimum viable product
-
+- TBD
 
 ![IMAGE]()
 
 ### Future Development
-- Add the ability to upload images
-- Enhance the 'admin' functionality and backend management tools
+- TBD
+
 
 
 ### Live Version
-- a live version of the app can be found on Heroku at ['Photo Walk'](https://fierce-fortress-98221.herokuapp.com/)
-- The code for the app can be located on ['GitHub' - 'WDI_PROJECT_4'](https://github.com/christopherallanperry/WDI_PROJECT_3)
-- To get started, register on the site as a new user
+- a live version of the app can be found on Heroku at ['Our Survey Said'](https://chris-perry-wdi-project-4.herokuapp.com/)
+- The code for the app can be located on ['GitHub' - 'WDI_PROJECT_4 - client'](https://github.com/christopherallanperry/wdi_project_4-client)
+- The code for the app can be located on ['GitHub' - 'WDI_PROJECT_4 - api'](https://github.com/christopherallanperry/wdi_project_4-api)
+- To get started, register on the site as a new user, create a new survey, then select one or more question types, provide a suitable question and click 'Save Question'
 
 ![IMAGE]()
