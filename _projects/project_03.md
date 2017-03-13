@@ -11,10 +11,12 @@ repo_name: WDI_PROJECT_3
 
 For this project, I was responsible for creating the design and implementation of the data models, a number of the views, and creating the main logo for the home page in Photoshop. I also undertook a good proportion of the work needed to keep our Trello board updated.
 
+<div class="indented">
 <h4>Try the project on Heroku: <a href="{{ page.heroku }}">{{ page.title }}</a></h4>
 <h4>View the code on GitHub: <a href="{{ page.github }}">{{ page.repo_name }}</a></h4>
+</div>
 
-### Aims
+### Project Aims
 - Build a more complex application in a team setting, creating our own API and using AngularJS for the front-end
 - Provide users with the ability to annotate one, or more, of their books with a code randomly generated on our app, and to detail where the book was left, along with their own thoughts on it.
 - For someone finding the book, the app had to be capable of retrieving the book by the random code and giving its finder the ability to record where they'd found it, along with their own comments.

@@ -9,10 +9,12 @@ repo_name: WDI_PROJECT_1
 
 As my first project for the Web Development Immersive course (WDI_24) at General Assembly London, I chose to recreate the classic Microsoft Minesweeper game, as I felt it represented an interesting range of challenges around the logic needed to implement the game play.
 
+<div class="indented">
 <h4>Try the project on Heroku: <a href="{{ page.heroku }}">{{ page.title }}</a></h4>
 <h4>View the code on GitHub: <a href="{{ page.github }}">{{ page.repo_name }}</a></h4>
+</div>
 
-### Aims
+### Project Aims
 - Complete a re-creation of the ‘Minesweeper’ game found on MS Windows operating systems
 - Ensure it would play on modern browsers using a mouse with left/right buttons
 - Style it to replicate the ‘classic’ game look and feel
