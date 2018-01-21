@@ -76,7 +76,7 @@ isAllowedToDrive(jane);
 // Jane is 17 so she is allowed to drive
 ```
 
-### Summary
+## Summary
 You should be able to see that Template Literals are a useful way in which a `console.log()` message can be used to convey a more meaningful message about the code that has run it, with variables and expressions being evaluated dynamically at runtime. Give them a go and see how many ways they can be used to enliven your messages - you'll be seeing them a lot.
 
 ## Notes about Template literals
