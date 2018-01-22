@@ -2,7 +2,7 @@
 layout: post
 title:  "Making console.log() Messages More Meaningful With ES6/ES2015 Template Literals"
 date:   2018-01-21 16:30:00 +0000
-categories: jekyll update
+categories: blog
 ---
 Whilst working through a JavaScript code exercise with one of the [CodeYourFuture](https://codeyourfuture.io/) students yesterday, I thought it would be a nice little enhancement to show them how to make their `console.log()` messages a little more interesting.
 

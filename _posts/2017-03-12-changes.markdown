@@ -2,7 +2,7 @@
 layout: post
 title:  "Changes"
 date:   2017-03-12 18:00:00 +0000
-categories: jekyll update
+categories: blog
 ---
 I've hesitated about posting on this subject for a while, though there's no particular reason to, especially as some people know already - those that I've told on a one-to-one basis; I think it's the 'standby for broadcast' aspect of it that's held me back, I never was much of a one for a crowd.
 
