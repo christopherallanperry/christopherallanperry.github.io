@@ -14,7 +14,7 @@ According to the [Moz://a Developer Network](https://developer.mozilla.org/en-US
 
 ...but what does that mean and why are they useful in the messages we're logging out to the console?
 
-At their simplest, [Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) are an alternative to single (`''`) and double (`""`) quotes, with the added benefit that they can have an expression evaluated inside them at runtime. Used in a `console.log()` statement, we can output a string that includes values that have been updated at the time the statement gets run.
+At their simplest, [Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) are an alternative to single (`''`) and double (`""`) quotes, with the added benefit that they can have an expression evaluated inside them at run time. Used in a `console.log()` statement, we can output a string that includes values that have been updated at the time the statement gets run.
 
 ## Getting ready
 To use template literal, you will first need to find out where the 'back-tick' (\` \`) or ([grave accent](https://en.wikipedia.org/wiki/Grave_accent)) lives on your keyboard.  On most UK keyboards (full-size and laptop), it can be found at the left-end of the number row, on Apple keyboards it can be found to the left of the 'Z' key.
@@ -77,7 +77,7 @@ isAllowedToDrive(jane);
 ```
 
 ## Summary
-You should be able to see that Template Literals are a useful way in which a `console.log()` message can be used to convey a more meaningful message about the code that has run it, with variables and expressions being evaluated dynamically at runtime. Give them a go and see how many ways they can be used to enliven your messages - you'll be seeing them a lot.
+You should be able to see that Template Literals are a useful way in which a `console.log()` message can be used to convey a more meaningful message about the code that has run it, with variables and expressions being evaluated dynamically at run time. Give them a go and see how many ways they can be used to enliven your messages - you'll be seeing them a lot.
 
 ## Notes about Template literals
 Template Literals have good support in modern browsers, with [support in almost 80% of browsers used globally, and almost 90% in those used within the UK](https://caniuse.com/#search=template%20literals) at time of writing. Coverage is lower across mobile browsers, and non-existent in Internet Explorer.
