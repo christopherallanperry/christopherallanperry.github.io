@@ -18,7 +18,7 @@ npm install morgan --save
 ```
 I also included the [errorhandler](https://www.npmjs.com/package/errorhandler) middleware, but at this point, I'm unsure whether that's going to get used. If you want it though, install it as follows...
 ```cli
-npm install errorhandler --save-dev
+npm install errorhandler --save
 ```
 
 ### Config
