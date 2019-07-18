@@ -4,8 +4,10 @@ title:  "MEAN Stack: Building a VueJS Front-End onto a NodeJS API - Part 2"
 date:   2018-02-12 20:00:00 +0000
 categories: blog
 ---
+_Note: This article is almost certainly not complete..._
+
 ## Background
-In the first part of this article...
+In the first part of this article, we looked at how to create a NodeJS API using Express and MongoDB. You can find the instructions for completing that at [Building a VueJS Front-End onto a NodeJS API - Part ](https://christopherallanperry.github.io/blog/2018/02/08/mean_stack_with_node_and_vuejs_pt1.html)
 
 ## GitHub Repo
 You can find the code for this series on my [GitHub repo 'YATA'](https://github.com/christopherallanperry/yata). The article describes the application it sets out to create as an 'Awesome Bucket List Application', but we all know it's a TODO list, hence the repo name YATA (Yet Another Todo App). As a quick PSA, be aware that the repo is still undergoing further development as I learn more and find other things to tweak.
