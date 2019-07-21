@@ -1,9 +1,0 @@
----
-layout: post
-title:  "TBD Updates"
-date:   2019-07-18 20:00:00 +0000
-categories: blog
----
-## Some Updates
-
-I didn't think this would have gone live yet as I'd post-dated it, however. Welcome to the live update as I think of things.
