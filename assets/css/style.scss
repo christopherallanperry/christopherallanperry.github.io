@@ -15,8 +15,8 @@ h3, h4 {
   font-size: 1.17em;
 }
 
-a {
-  color: #373737;
+a, .lastname, a:hover {
+  color: rebeccapurple;
 }
 
 nav {
@@ -41,9 +41,9 @@ nav ul li a:hover {
   padding: 10px;
 }
 
-.lastname, a:hover {
-  color: rebeccapurple;
-}
+// .lastname, a:hover {
+//   color: rebeccapurple;
+// }
 
 .firstname, .copyright a:hover, .publisher a:hover, .tribute a:hover {
   color: silver;
