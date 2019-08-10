@@ -10,7 +10,7 @@ It's been a little while since I'd run through building an Express API up from s
 
 All ran well until I installed the [JSONWebToken](https://www.npmjs.com/package/jsonwebtoken) (JWT) package - (`$ npm install jsonwebtoken --save`) - at which point any attempt to register a user or login crashed `nodemon` and spit out an error along the lines of
 
-```
+```cli
 events.js:167
       throw er; // Unhandled 'error' event
       ^
@@ -21,7 +21,7 @@ Error: Expected "payload" to be a plain object.
 
 Aside from requiring the package, the only other line of code to go into my API was this, which was a direct lift from what I'd used previously, but the error message did seem to be doing a fair bit of fingerpointing at the JWT `sign()` method, though it wasn't immediately obvious why.
 
-```
+```js
 const token = jwt.sign(user._id, config.secret, { expiresIn: 60*60*24 });
 ```
 
@@ -31,7 +31,7 @@ Heading over to NPM and the [jsonwebtoken page](https://www.npmjs.com/package/js
 
 Checking back over the example implementations for `sign()`, it became apparent that there was a difference in the way in which the payload (an object in itself) was being presented to the method, it now having an object wrapper around it. A quick edit to the line of code setting up the token, and having re-installed the v8.5.1 package, the API was back up and running again.
 
-```
+```js
 const token = jwt.sign({ data: user._id }, config.secret, { expiresIn: 60 * 60 * 24 });
 ```
 
