@@ -22,7 +22,7 @@ Error: Expected "payload" to be a plain object.
 Aside from requiring the package, the only other line of code to go into my API was this, which was a direct lift from what I'd used previously, but the error message did seem to be doing a fair bit of fingerpointing at the JWT `sign()` method, though it wasn't immediately obvious why.
 
 ```js
-const token = jwt.sign(user._id, config.secret, { expiresIn: 60*60*24 });
+const token = jwt.sign(user._id, config.secret, { expiresIn: 60 * 60 * 24 });
 ```
 
 Checking back on the old and new `package.json` files I noticed that they were using different versions of the JWT package - the old was on v7.1.9 and the new a major version up at v8.5.1. Reverting the new `package.json` file back to v7.1.9 immediately got me a functioning API again, with JWT tokens being generated both on a new user being created, or when they were logged back in again. OK, so definitely an issue with the changed package versions then.
