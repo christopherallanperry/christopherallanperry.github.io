@@ -19,7 +19,7 @@ lastname: Perry
 email: chris@christopherallanperry.com
 description: Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://christopherallanperry.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chris_perry_61
 github_username:  christopherallanperry
 
