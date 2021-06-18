@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Chris Perry
+title: The personal website of Chris Perry - web developer
 firstname: Chris
 lastname: Perry
+author: Christopher Allan Perry
 email: chris@christopherallanperry.com
-description: Web Developer
+description: This is the personal website of Chris Perry, a web devloper using HTML, CSS, JavaScript, Angular, C# and Microsoft SQL
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christopherallanperry.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chris_perry_61
