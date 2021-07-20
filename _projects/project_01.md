@@ -9,11 +9,6 @@ repo_name: WDI_PROJECT_1
 
 As my first project for the Web Development Immersive course (WDI_24) at General Assembly London, I chose to recreate the classic Microsoft Minesweeper game, as I felt it represented an interesting range of challenges around the logic needed to implement the game play.
 
-<div class="indented">
-<h4>Try the project on Heroku: <a href="{{ page.heroku }}">{{ page.title }}</a></h4>
-<h4>View the code on GitHub: <a href="{{ page.github }}">{{ page.repo_name }}</a></h4>
-</div>
-
 ### Project Aims
 - Complete a re-creation of the ‘Minesweeper’ game found on MS Windows operating systems
 - Ensure it would play on modern browsers using a mouse with left/right buttons
@@ -24,7 +19,7 @@ As my first project for the Web Development Immersive course (WDI_24) at General
 - CSS
 - JavaScript (inc. some ES6)
 
-![Winning Game](../project_01_game_in_play.png)
+![Minesweeper game in progress](../project_01_game_in_play.png)
 
 ### Successes
 - The game was written in ‘vanilla’ JS with no use of jQuery or 3rd Party libraries
@@ -38,7 +33,7 @@ As my first project for the Web Development Immersive course (WDI_24) at General
 - Early use of jQuery was refactored out as it was blocking progress
 - Keeping the code ‘DRY’
 
-![Winning Game](../project_01_losing_game.png)
+![Losing Minesweeper Game](../project_01_losing_game.png)
 
 ### Future Development
 - Extend use of OOP
@@ -52,4 +47,4 @@ As my first project for the Web Development Immersive course (WDI_24) at General
 - The code for the game can be located on ['GitHub' - 'WDI_PROJECT_1'](https://github.com/christopherallanperry/WDI_PROJECT_1)
 - To get started, click on a random tile to reveal what it covers, or right-click to flag a square as being suspected of covering a mine.
 
-![Winning Game](../project_01_winning_game.png)
+![Completed Minesweeper game](../project_01_winning_game.png)
