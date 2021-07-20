@@ -13,12 +13,6 @@ For my final project, I wanted to focus more on creating something that would be
 
 Whilst small in the overall development process, the part that pleased me most, was discovering a way of setting the Y-axis on the Angular-Charts pie-chart I was using; as far as I’ve been able to make out, this was previously undocumented, at least until I posted it on [StackOverflow](http://stackoverflow.com/questions/35431389/change-y-axis-values-in-angular-chart/42530119#42530119). If I was doing the application again, I’d want to expand it out to encompass organisations and the structures within them. I think I'd also want to find myself a tame designer...
 
-<div class="indented">
-  <h4>Try the project on Heroku: <a href="{{ page.heroku }}">{{ page.title }}</a></h4>
-  <h4>View the client code on GitHub: <a href="{{ page.github_client }}">{{ page.repo_name_client }}</a></h4>
-  <h4>View the API code on GitHub: <a href="{{ page.github_api }}">{{ page.repo_name_api }}</a></h4>
-</div>
-
 ### Project Aims
 - Build a business focused application using a Ruby-on-Rails API and an AngularJS client app
 - Give an app user the ability to create a new survey containing a variety of question types
@@ -38,7 +32,7 @@ Whilst small in the overall development process, the part that pleased me most, 
 - Gulp
 - Babel
 
-![Create a new survey](../project_04_01.png)
+![Form used to create a new survey](../project_04_01.png)
 
 ### Successes
 - The database structure, whilst apparently simple in concept, was a little trickier to set up than initially imagined, but in the event worked well for the purposes of the apparently
@@ -47,7 +41,7 @@ Whilst small in the overall development process, the part that pleased me most, 
 ### Challenges
 - Given the way in which the data for survey responses builds up in the database, being able to sort them into a usable order was one of the biggest challenges - the problem is represented in the graphic below
 
-![Data sort model](../project_04_data_sort.png)
+![Flow chart detailing the data sort model for Our Survey Said app](../project_04_data_sort.png)
 
 - Understanding the complexities of dealing with wholly separate client and API applications, whilst switching between AngularJS and Ruby-on-Rails
 - Angular-Charts proved to be tricky to get installed correctly and operational
@@ -68,4 +62,4 @@ Whilst small in the overall development process, the part that pleased me most, 
 - The code for the app can be located on ['GitHub' - 'WDI_PROJECT_4 - api'](https://github.com/christopherallanperry/wdi_project_4-api)
 - To get started, register on the site as a new user, create a new survey, then select one or more question types, provide a suitable question and click 'Save Question'
 
-![Responding to a survey](../project_04_03.png)
+![Form used to respond to a survey](../project_04_03.png)

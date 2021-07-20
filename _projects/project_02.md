@@ -9,17 +9,12 @@ repo_name: WDI_PROJECT_2
 
 As a long time photographer and participant in photo walks with friends, I wanted to try my hand at an application that could combine the Google Map API with the idea of marking specific known photo opportunities. The idea crystallised when I was given a gift of the book ["Whitechapel in 50 Buildings"](https://www.amberley-books.com/whitechapel-in-50-buildings.html) by [Louis Berk](http://www.louisberk.com/) and [Rachel Kolsky](http://www.golondontours.com/about-me-2/) for Christmas. This provided me with a ready source of locations nearby where [General Assembly](https://generalassemb.ly/locations/london) were operating from.
 
-<div class="indented">
-<h4>Try the project on Heroku: <a href="{{ page.heroku }}">{{ page.title }}</a></h4>
-<h4>View the code on GitHub: <a href="{{ page.github }}">{{ page.repo_name }}</a></h4>
-</div>
-
 ### Project Aims
 - Build an application that would leverage the Google Maps API
 - Provide the ability for users to create their own walk by either selecting existing landmarks, or by adding landmarks of their own
 - Give the user the ability to record their walks and show the images they took during it
 
-![Photo-Walk landmarks](../project_02_01.png)
+![Photo-Walk map showing landmarks that offer a photo opportunity](../project_02_01.png)
 
 ### Technologies Used
 - HTML
@@ -34,7 +29,7 @@ As a long time photographer and participant in photo walks with friends, I wante
 - Gulp
 - Babel
 
-![Photo-Walk info-window](../project_02_02.png)
+![Photo-Walk info window showing details of landmark and a photo of it](../project_02_02.png)
 
 ### Successes
 - Building an API to house the locations to be placed on the map, and getting this seeded with suitable data
@@ -48,7 +43,7 @@ As a long time photographer and participant in photo walks with friends, I wante
 - Time constraints involved in creating a minimum viable product
 
 
-![IMAGE](../project_02_03.png)
+![Photo-Walk map showing routes between landmarks](../project_02_03.png)
 
 ### Future Development
 - Add the ability to upload images
@@ -60,4 +55,4 @@ As a long time photographer and participant in photo walks with friends, I wante
 - The code for the app can be located on ['GitHub' - 'WDI_PROJECT_2'](https://github.com/christopherallanperry/WDI_PROJECT_2)
 - To get started, register on the site as a new user
 
-![IMAGE](../project_02_06.png)
+![Photo-Walk modal form used to enter details of a new landmark](../project_02_06.png)

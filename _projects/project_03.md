@@ -11,17 +11,12 @@ repo_name: WDI_PROJECT_3
 
 For this project, I was responsible for creating the design and implementation of the data models, a number of the views, and creating the main logo for the home page in Photoshop. I also undertook a good proportion of the work needed to keep our Trello board updated.
 
-<div class="indented">
-<h4>Try the project on Heroku: <a href="{{ page.heroku }}">{{ page.title }}</a></h4>
-<h4>View the code on GitHub: <a href="{{ page.github }}">{{ page.repo_name }}</a></h4>
-</div>
-
 ### Project Aims
 - Build a more complex application in a team setting, creating our own API and using AngularJS for the front-end
 - Provide users with the ability to annotate one, or more, of their books with a code randomly generated on our app, and to detail where the book was left, along with their own thoughts on it.
 - For someone finding the book, the app had to be capable of retrieving the book by the random code and giving its finder the ability to record where they'd found it, along with their own comments.
 
-![Landing page](../project_03_01.png)
+![Free-the-Books landing page](../project_03_01.png)
 Our apps landing page
 
 ### Technologies Used
@@ -39,7 +34,7 @@ Our apps landing page
 - Gulp
 - Babel
 
-![An initial design concept](../project_03_05.jpg)
+![An initial design concept for the Free the Books app](../project_03_05.jpg)
 An early storyboard idea
 
 ### Successes
@@ -56,7 +51,7 @@ An early storyboard idea
 - We didn’t always work as a team
 
 
-![Team Trello Board](../project_03_01_trello.png)
+![The team Trello Board used to plan the Free the Books app](../project_03_01_trello.png)
 An active Trello board
 
 ### Future Development
@@ -72,5 +67,4 @@ An active Trello board
 - The code for the app can be located on ['GitHub' - 'WDI_PROJECT_3'](https://github.com/christopherallanperry/WDI_PROJECT_3)
 - To get started, register on the site as a new user
 
-![Book feed](../project_03_03.png)
-The book feed
+![The Free the Books book feed](../project_03_03.png)
