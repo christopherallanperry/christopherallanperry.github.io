@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: This is the personal website of Chris Perry, a web developer using HTML, CSS, JavaScript, Angular, C# and Microsoft SQL
+title: This is the personal website of Chris Perry, a web developer using HTML, CSS, JavaScript, VueJS, Angular, C# and Microsoft SQL.
 
 firstname: Chris
 lastname: Perry
