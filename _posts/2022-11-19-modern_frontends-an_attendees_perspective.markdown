@@ -5,7 +5,7 @@ date: 2022-11-20 16:00:00 +0000
 categories: blog
 ---
 
-![Party popper at Jhey Thompkins talk at Modern Frontends 2022](../assets/images/IMG_8283.JPG)
+![Party popper at Jhey Thompkins talk at Modern Frontends 2022](../assets/images/party_poppers.jpeg)
 
 ## First thoughts
 It's worth saying up front, that I am commenting on this event as an attendee of both one of the workshop sessions, and then the conference event itself. I intend as far as possible, to only describe things that affected me directly, or was able to observe myself. In doing so though, I am very much aware of other accounts of what happened, or didn't, either because they have been reported elsewhere, or through conversations taking place around the conference margins. Those are not my stories to tell.
