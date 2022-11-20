@@ -60,7 +60,7 @@ Before we can get started though, we get invited into the next room for a fire s
 ## The workshop
 The workshop itself was well run, interesting, and it was very clear that Dylan knew his stuff and had prepared [an excellent set of reference materials](https://ursatile.github.io/jsweb/) for the event. To the best of my recollection, there were no questions Dylan was unable to answer, nor were there any issues he couldn't diagnose and solve. 
 
-Were were supplied with coffee on a regular basis, apparently from a nearby coffee shop in the ExCel, brought to us by Gen Ashley, who by now we understood to be the main person behind the conference organisation. Lunch was taken at an eatery a short distance from the London Suite, we picked what we needed, and Gen paid at the till.
+We were supplied with coffee on a regular basis, apparently from a nearby coffee shop in the ExCel, brought to us by Gen Ashley, who by now we understood to be the main person behind the conference organisation. Lunch was taken at an eatery a short distance from the London Suite, we picked what we needed, and Gen paid at the till.
 
 What was perhaps more unexpected, was that there were only 6 people in the workshop. There was certainly room for more. The workshop next door had another 7 attendees. As best I could make out, there weren't any other workshops running in the area we were in. I'm not sure about other spaces in the ExCel, but I didn't hear of any.
 
