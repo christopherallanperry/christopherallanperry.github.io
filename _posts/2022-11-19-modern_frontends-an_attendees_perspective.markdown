@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Modern Frontends (workshop & conference): An Attendees Perspective'
-date: 2022-11-20 18:00:00 +0000
+date: 2022-11-20 16:00:00 +0000
 categories: blog
 ---
 ![Party popper at Jhey Thompkins talk at Modern Frontends 2022](../assets/images/IMG_8283.JPG)
@@ -63,7 +63,7 @@ Were were supplied with coffee on a regular basis, apparently from a nearby coff
 
 What was perhaps more unexpected, was that there were only 6 people in the workshop. There was certainly room for more. The workshop next door had another 7 attendees. As best I could make out, there weren't any other workshops running in the area we were in. I'm not sure about other spaces in the ExCel, but I didn't hear of any.
 
-## The Conference
+## The Conference Setting
 The conference itself was set in the Capital Suite two floors above where the workshops happened. This was a long open area, a little corridor like in a way, with various named rooms off on either side. This was where various vendors and sponsors had their tables set up, and also where refreshments were served.
 
 The main room, 'Ada Lovelace', was set up cinema style I guess. Long rows of chairs all facing toward a low stage; Modern Frontends branding above it and a lecturn, with screens either side for the speakers to present on. This room was used for keynote speakers, and at the start of the day, after lunch, and at the end was more or less the only room in use. It was capable of holding all the attendees present at once.
@@ -72,4 +72,39 @@ The others rooms were set up more delegate style, with chairs set around round t
 
 The projection equipment was all ceiling mounted, so presumably part of the what the ExCel supplied. Over the course of the two days, it became clear that the projectors were only capable of projecting in a 4:3 aspect ratio, and was causing some speakers difficulties, as their laptops were running at 16:9 and they were having trouble accessing everything they needed for their presentation. Audio also seemed well covered.
 
-The one thing that was evidently missing though, was any sign of any video recording equipment. As tickets for virtual attendance were being offered on the MF website, concern over this was starting to show up on Twitter.
+The one thing that was evidently missing though, was any sign of any video recording equipment. As tickets for virtual attendance were being offered on the MF website, concern over this was starting to show up on Twitter and it wasn't looking good.
+
+The one thing that stood out though, was that it appears inconceivable that the space used could have accommodated the 3000+ attendees that the MF website was touting. At best, I'd guess there were around 400 people there on day 1, and there were noticeably fewer there on day 2. Even with those numbers, the central area where the sponsors stands were located, and lunch was served, were quite busy at times. Given that some of the smaller rooms used were standing room only at times, quite what would have happened had there been even twice the number of attendees I could see, is anyone's guess.
+
+## The Talks
+I think the first thing to say was that the talks I saw happen were excellent. The standouts for me being those by [Tejas Kumar](https://twitter.com/TejasKumar_), [Jessica Sachs](https://twitter.com/_jessicasachs), [Ben Lesh](https://twitter.com/BenLesh) and [Jhey Thompkins](https://twitter.com/jh3yy).
+
+There were though some that didn't happen. After the first round of single track talks of day 1 in the main Ada Lovelace room, things split into the multi-track talks. The first one I picked was one being presented by Eeva-Jonna Panula who was to talk to us about 'Learnings from My Accessibility Journey', a subject that interests me, but a name I wasn't familiar with. After a few minutes wait and getting on for 10 minutes after the talk was scheduled to begin, Gen Ashley popped her head around the door to announce that the speaker was sick. Cue a scramble to get out of the room and arrive in another talk late.
+
+A little later in the day, [Austin Gil](https://twitter.com/heyAustinGil) was due to speak on the topic of 'What does it take to make a div?'. Again, another potentially fascinating talk and a new speaker to me, but a couple of minutes after the due start time, someone comes into the room to tell us that Austin has COVID - definitely a risk around anyone attending a large gathering as speakers tend to do, but I did a little digging...
+
+I checked Austin's Twitter timeline, and sure enough there was a [Bad news update:](https://twitter.com/heyAustinGil/status/1592467847850397696) Tweet, but it was posted on the morning of the 15th, a full two days before the conference started. So what happened? Did Austin not tell the organisers, or did the organisers not update their scheduling? Hard to tell, but it's difficult to believe there was no way of announcing this until they had a room full of people sat there waiting for it to happen.
+
+At this point, not having even reached lunch on the first day, that things are beginning to look distinctly off.
+
+## Refreshments
+It's been well documented at this point that lunch and other refreshments were a little underwhelming. There were a variety of sandwiches, and a selection of fruit. There was plenty of it though. I've seen worse at events before, some don't provide anything at all. Drinks provided were pre-made urns of tea and coffee, with water also available at lunchtimes. They also offered a selection of bottled beer, wine, and soft drinks just before the final session of day one, which was a live episode of the [Compressed.fm](http://compressed.fm/) podcast hosted by [James Quick](https://twitter.com/jamesqquick) and [Amy Dutton](https://twitter.com/selfteachme).
+
+## Parting Thoughts
+There's quite a lot of negativity been posted already about this event, and I'm conscious that I'm adding to that here. My assessment has to be based on what happened to me, whether I got what I wanted out of it (the workshop in particular), and how I'm left feeling about this event for the future.
+
+I booked for a specific workshop that I hoped would have a direct bearing on my current career - it was cancelled. That happens, but the utter confusion around trying to sort out the alternative didn't need to.
+
+Cancelled talks also happen, but again, was there really no way of letting people know in advance?
+
+As for future instances of this event being run, my impression is that it's going to be really hard to get much traction next time around. It seems to me that there's been a loss of trust in the organisers, both on the part of speakers and attendees, and that is going to take a huge amount of work on someone's part to rebuild. I also doubt that this can happen with another event that is billed on the scale that this one was. Work to do there I think...
+
+On the plus side, I have met and listened to some really wonderful people. Some connections have been renewed and others made. It was those people that made it worthwile, and not the organisation I witnessed.
+
+## Other reports
+
+[Cassie Evans](https://www.cassie.codes/posts/modern-frontends/)
+
+[Jo Francetti](https://dev.to/thisisjofrank/my-experience-of-modern-frontends-conference-1cgg)
+
+[Hidde de Vries](https://hidde.blog/modern-frontends-live/)
