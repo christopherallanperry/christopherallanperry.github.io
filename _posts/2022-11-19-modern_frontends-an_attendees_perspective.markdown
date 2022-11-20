@@ -4,6 +4,7 @@ title: 'Modern Frontends (workshop & conference): An Attendees Perspective'
 date: 2022-11-20 16:00:00 +0000
 categories: blog
 ---
+
 ![Party popper at Jhey Thompkins talk at Modern Frontends 2022](../assets/images/IMG_8283.JPG)
 
 ## First thoughts
