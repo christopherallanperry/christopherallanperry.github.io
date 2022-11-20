@@ -28,6 +28,11 @@ github_username:  christopherallanperry
 # Build settings
 markdown: kramdown
 highlighter: rouge
+defaults:
+  - scope:
+      path: 'assets/images'
+    values:
+      image: true
 # theme: jekyll-athena
 theme: jekyll-theme-slate
 plugins:
