@@ -103,10 +103,10 @@ On the plus side, I have met and listened to some really wonderful people. Some 
 
 ## Other reports
 
-[Cassie Evans](https://www.cassie.codes/posts/modern-frontends/)
+- [Cassie Evans](https://www.cassie.codes/posts/modern-frontends/)
 
-[Jo Francetti](https://dev.to/thisisjofrank/my-experience-of-modern-frontends-conference-1cgg)
+- [Jo Francetti](https://dev.to/thisisjofrank/my-experience-of-modern-frontends-conference-1cgg)
 
-[Hidde de Vries](https://hidde.blog/modern-frontends-live/)
+- [Hidde de Vries](https://hidde.blog/modern-frontends-live/)
 
 ---
