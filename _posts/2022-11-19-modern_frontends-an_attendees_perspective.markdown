@@ -4,6 +4,8 @@ title: 'Modern Frontends (workshop & conference): An Attendees Perspective'
 date: 2022-11-20 18:00:00 +0000
 categories: blog
 ---
+![Party popper at Jhey Thompkins talk at Modern Frontends 2022](../assets/images/IMG_8283.JPG)
+
 ## First thoughts
 It's worth saying up front, that I am commenting on this event as an attendee of both one of the workshop sessions, and then the conference event itself. I intend as far as possible, to only describe things that affected me directly, or was able to observe myself. In doing so though, I am very much aware of other accounts of what happened, or didn't, either because they have been reported elsewhere, or through conversations taking place around the conference margins. Those are not my stories to tell.
 
@@ -68,4 +70,6 @@ The main room, 'Ada Lovelace', was set up cinema style I guess. Long rows of cha
 
 The others rooms were set up more delegate style, with chairs set around round tables, much as you would in a workshop needing breakout groups, and more narrow than wide. These were considerably smaller and were often standing room only for the more popular sessions.
 
-The projection equipment was all ceiling mounted, so presumably part of the what the ExCel supplied. Over the course of the two days, it became clear that the projectors were only capable of projecting in a 4:3 aspect ratio, and was causing some speakers difficulties, as their laptops were running at 16:9 and they were 
+The projection equipment was all ceiling mounted, so presumably part of the what the ExCel supplied. Over the course of the two days, it became clear that the projectors were only capable of projecting in a 4:3 aspect ratio, and was causing some speakers difficulties, as their laptops were running at 16:9 and they were having trouble accessing everything they needed for their presentation. Audio also seemed well covered.
+
+The one thing that was evidently missing though, was any sign of any video recording equipment. As tickets for virtual attendance were being offered on the MF website, concern over this was starting to show up on Twitter.
