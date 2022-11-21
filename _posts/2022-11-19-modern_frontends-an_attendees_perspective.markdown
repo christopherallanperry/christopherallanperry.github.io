@@ -107,4 +107,8 @@ On the plus side, I have met and listened to some really wonderful people. Some 
 
 - [Hidde de Vries](https://hidde.blog/modern-frontends-live/)
 
+- [Todd Libby](https://toddl.dev/posts/modern-frontends/)
+
+- [Mike Hartington](https://mhartington.io/post/modern-frontends-live/)
+
 ---
