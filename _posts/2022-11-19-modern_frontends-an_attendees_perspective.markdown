@@ -5,6 +5,8 @@ date: 2022-11-20 16:00:00 +0000
 categories: blog
 ---
 
+<img src="/assets/images/party_poppers.jpeg" class="hero-image" alt="Party poppers let off during Jhey Thompkins talk at ModernFrontends 2022" />
+
 ## First thoughts
 It's worth saying up front, that I am commenting on this event as an attendee of both one of the workshop sessions, and then the conference event itself. I intend, as far as possible, to only describe things that affected me directly, or was able to observe myself. In doing so though, I am very much aware of other accounts of what happened, or didn't, either because they have been reported elsewhere, or through conversations taking place around the conference margins. Those are not my stories to tell, though I've linked to some at the end of this post.
 
