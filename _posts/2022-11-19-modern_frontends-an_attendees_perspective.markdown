@@ -115,6 +115,8 @@ On the plus side, I have met and listened to some really wonderful people. Some 
 
 - [JD Hillen](https://jdhillen.com/blog/my-experience-at-modern-frontends-live/)
 
+- [Kent C Dodds](https://kentcdodds.com/blog/my-modern-frontends-live-experience)
+
 And a 'how it ought to be done'
 
 - [Niels Leenheer](https://nielsleenheer.com/articles/2022/red-flag-speakers-having-to-cover-their-own-travel/)
