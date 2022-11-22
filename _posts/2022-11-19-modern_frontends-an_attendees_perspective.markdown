@@ -111,4 +111,6 @@ On the plus side, I have met and listened to some really wonderful people. Some 
 
 - [Mike Hartington](https://mhartington.io/post/modern-frontends-live/)
 
+- [JD Hillen](https://jdhillen.com/blog/my-experience-at-modern-frontends-live/)
+
 ---
