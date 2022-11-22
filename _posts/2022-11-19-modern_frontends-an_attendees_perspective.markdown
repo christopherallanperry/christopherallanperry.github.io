@@ -99,7 +99,7 @@ As for future instances of this event being run, my impression is that it's goin
 
 On the plus side, I have met and listened to some really wonderful people. Some connections have been renewed and others made. It was those people that made it worthwile, and not the organisation I witnessed.
 
-## Other reports
+## Other reports related to the event
 
 - [Cassie Evans](https://www.cassie.codes/posts/modern-frontends/)
 
@@ -112,5 +112,9 @@ On the plus side, I have met and listened to some really wonderful people. Some 
 - [Mike Hartington](https://mhartington.io/post/modern-frontends-live/)
 
 - [JD Hillen](https://jdhillen.com/blog/my-experience-at-modern-frontends-live/)
+
+And a 'how it ought to be done'
+
+- [Niels Leenheer](https://nielsleenheer.com/articles/2022/red-flag-speakers-having-to-cover-their-own-travel/)
 
 ---
