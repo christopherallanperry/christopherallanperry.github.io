@@ -85,6 +85,8 @@ A little later in the day, [Austin Gil](https://twitter.com/heyAustinGil) was du
 
 I checked Austin's Twitter timeline, and sure enough there was a [Bad news update:](https://twitter.com/heyAustinGil/status/1592467847850397696) Tweet, but it was posted on the morning of the 15th, a full two days before the conference started. So what happened? Did Austin not tell the organisers, or did the organisers not update their scheduling? Hard to tell, but it's difficult to believe there was no way of announcing this until they had a room full of people sat there waiting for it to happen.
 
+Update: Austin has since reached out to me and confirmed that he [had inform the organizers well in advance](https://twitter.com/heyAustinGil/status/1594703084457951235).
+
 At this point, not having even reached lunch on the first day, that things are beginning to look distinctly off.
 
 ## Refreshments
