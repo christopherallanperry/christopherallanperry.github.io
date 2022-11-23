@@ -121,6 +121,8 @@ On the plus side, I have met and listened to some really wonderful people. Some 
 
 - [Dylan Beattie](https://dylanbeattie.net/2022/11/22/modern-frontends-2022.html)
 
+- [Niamh McCooey](https://dev.to/niamhmccoo/my-experience-at-modern-frontends-live-1lcn)
+
 And a 'how it ought to be done'
 
 - [Niels Leenheer](https://nielsleenheer.com/articles/2022/red-flag-speakers-having-to-cover-their-own-travel/)
