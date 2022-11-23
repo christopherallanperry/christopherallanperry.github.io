@@ -127,4 +127,8 @@ And a 'how it ought to be done'
 
 - [Niels Leenheer](https://nielsleenheer.com/articles/2022/red-flag-speakers-having-to-cover-their-own-travel/)
 
+Or not...
+
+- [Codú](https://www.youtube.com/watch?v=Ekn-qiH8Ozw)
+
 ---
