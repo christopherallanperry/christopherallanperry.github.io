@@ -123,6 +123,8 @@ On the plus side, I have met and listened to some really wonderful people. Some 
 
 - [Niamh McCooey](https://dev.to/niamhmccoo/my-experience-at-modern-frontends-live-1lcn)
 
+- [Kilian Valkof](https://kilianvalkhof.com/2022/web/my-experience-at-modern-frontends/)
+
 And a 'how it ought to be done'
 
 - [Niels Leenheer](https://nielsleenheer.com/articles/2022/red-flag-speakers-having-to-cover-their-own-travel/)
