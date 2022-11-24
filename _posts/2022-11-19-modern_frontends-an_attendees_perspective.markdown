@@ -125,6 +125,8 @@ On the plus side, I have met and listened to some really wonderful people. Some 
 
 - [Kilian Valkof](https://kilianvalkhof.com/2022/web/my-experience-at-modern-frontends/)
 
+- [Patty O'Callaghan](https://twitter.com/pattyneta/status/1595495394557022208)
+
 And a 'how it ought to be done'
 
 - [Niels Leenheer](https://nielsleenheer.com/articles/2022/red-flag-speakers-having-to-cover-their-own-travel/)
