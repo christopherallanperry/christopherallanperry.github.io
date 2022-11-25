@@ -26,7 +26,7 @@ On the 11th November, just a few days before the start of the event, I begin to 
 
 The real bombshell for me personally came at 12:32 that day, when I received an email from MF via Eventbrite announcing that the workshop had been cancelled, "due to various reasons, one which, is a visa issue with one of the instructors", but offering me a place on another, '[Web Performance - Back to Front](https://www.modernfrontends.live/workshops/web-performance-back-to-front)' being run by [Harry Roberts](https://twitter.com/csswizardry). The email arrived whilst I was having lunch, so I didn't see it until nearer 13:00. Now I've done one of Harry's workshops before around 5 years back, I like his style of delivery, am interested in the topic, so initially thought it wouldn't be too bad an alternative, though covering nothing like the ground I'd wanted to meet my development objectives. Also, it was a 1-day workshop, not a 2-day as I'd originally booked.
 
-*Update: I have been contacted on Twitter by Bonnie Brennan to advise that the reasons given for the workshop cancellation "[was not true](https://twitter.com/bonnster75/status/1596141856865271811)"*
+*Update: I have been contacted on Twitter by Bonnie Brennan to advise that the reasons given for the workshop cancellation "[was not true](https://twitter.com/bonnster75/status/1596141856865271811)".*
 
 The immediate problem I had was working out how to accept the offer. The email was an Eventbrite 'no-reply', and on following the supplied link to the MF page for that workshop, found that the only option was to go through the booking process again, which required payment (again). It was at this point I discovered that the website had no obviously displayed contact details.
 
