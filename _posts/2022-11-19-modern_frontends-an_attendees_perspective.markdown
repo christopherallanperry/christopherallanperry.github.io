@@ -129,6 +129,8 @@ On the plus side, I have met and listened to some really wonderful people. Some 
 
 - [Patty O'Callaghan](https://twitter.com/pattyneta/status/1595495394557022208)
 
+- [Tejas Kumar](https://www.youtube.com/watch?v=vKnCQxt19e8)
+
 And a 'how it ought to be done'
 
 - [Niels Leenheer](https://nielsleenheer.com/articles/2022/red-flag-speakers-having-to-cover-their-own-travel/)
