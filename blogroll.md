@@ -15,4 +15,4 @@ Here you can find links to a bunch of people you might find it worthwhile to fol
 - [Harry Roberts (CSS Wizardry): Frontend architecture and performance engineering (also responsible for monstering Yorkshire roads on a bicycle)](https://csswizardry.com/)
 - [Shaundai Person: Builds TypeScript for JavaScript devs](https://dev.to/shaundai)
 - [Hidde de Vries: accessibility nerd, front-end developer, components enthusiast, web standards fan and tech ethics explorer](https://hidde.blog/)
-
+- [Kent C. Dodds: Helps people make the world a better place through quality software](https://kentcdodds.com/)
